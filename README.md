@@ -1,1 +1,1 @@
-# cubieai-embed
+# chat-embed
